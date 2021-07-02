@@ -68,7 +68,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #ffffff;
+  color: #000000;
   /*background-color: #5ba887; */
 }
 
@@ -163,15 +163,15 @@ sup {
 
 a {
   color: #000000;
-  text-decoration: underline;
+  text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #5E8F6C;
+  color: #9EBBA6;
   text-decoration: none;
 }
 .nav-links {
-  color: #5E8F6C
+  color: #5E8F6C;
   text-decoration:: none;
 }
 
