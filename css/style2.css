@@ -71,9 +71,9 @@ a:focus,a:hover,a:active {
 
 a {
     color: #000000;
-    font-family: arial;
-    font-size: 10pt;
-    text-decoration: none
+    font-family: Arial;
+    font-size: 12pt;
+    text-decoration: none;
 }
 
 a:hover {
@@ -82,8 +82,8 @@ a:hover {
 }
 
 #content {
-    font-family: arial;
-    font-size: 11px;
+    font-family: Arial;
+    font-size: 12px;
     font-weight: 200;
     position: relative
 }
